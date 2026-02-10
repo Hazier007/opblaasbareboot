@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Container } from "@/components/Container";
 import { CategoryCard } from "@/components/CategoryCard";
 import { ProductCard } from "@/components/ProductCard";
+import { LiquidEther } from "@/components/LiquidEther";
 import { CATEGORIES, PRODUCTS } from "@/lib/data";
 
 export default function HomePage() {
@@ -11,11 +12,8 @@ export default function HomePage() {
 
   return (
     <main>
-      <section className="relative overflow-hidden py-14">
-        <div className="pointer-events-none absolute inset-0 opacity-80">
-          <div className="absolute -top-40 left-1/2 h-[520px] w-[520px] -translate-x-1/2 rounded-full bg-primary/20 blur-3xl" />
-          <div className="absolute -bottom-44 right-0 h-[520px] w-[520px] rounded-full bg-secondary/20 blur-3xl" />
-        </div>
+      <section className="relative overflow-hidden py-16">
+        <LiquidEther />
 
         <Container>
           <div className="relative grid gap-10 md:grid-cols-2 md:items-center">

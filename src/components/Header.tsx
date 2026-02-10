@@ -15,10 +15,10 @@ export function Header() {
     <header className="sticky top-0 z-20 border-b border-white/10 bg-navy/80 backdrop-blur">
       <Container>
         <div className="flex items-center justify-between py-4">
-          <Link href="/" className="font-semibold tracking-tight">
+          <Link href="/" className="text-xl font-semibold tracking-tight md:text-2xl">
             <span className="text-primary">opblaasbare</span>boot.be
           </Link>
-          <nav className="hidden gap-5 text-sm text-zinc-200 md:flex">
+          <nav className="hidden gap-6 text-base text-zinc-200 md:flex">
             {NAV.map((i) => (
               <Link key={i.href} href={i.href} className="hover:text-white">
                 {i.label}
@@ -27,7 +27,7 @@ export function Header() {
           </nav>
           <a
             href="#topproducten"
-            className="rounded-full bg-aqua-gradient px-4 py-2 text-sm font-semibold text-navy hover:brightness-110"
+            className="rounded-full bg-aqua-gradient px-5 py-2.5 text-base font-semibold text-navy hover:brightness-110"
           >
             Top producten
           </a>
