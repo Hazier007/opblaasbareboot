@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "aqua-glide-kayak-2p",
+    "title": "AquaGlide Opblaasbare Kayak 2-Persoons",
+    "categorySlug": "kayaks",
+    "priceEUR": 299,
+    "rating": 4.4,
+    "reviewCount": 186,
+    "imageUrl": "https://placehold.co/900x600/png?text=Kayak+2P",
+    "asin": "B0KAYAK001",
+    "bullets": ["2 persoons", "Stevige drop-stitch bodem", "Inclusief draagtas"]
+  },
+  {
+    "slug": "traveller-kayak-1p",
+    "title": "Traveller Kayak 1-Persoons (Compact)",
+    "categorySlug": "kayaks",
+    "priceEUR": 219,
+    "rating": 4.2,
+    "reviewCount": 92,
+    "imageUrl": "https://placehold.co/900x600/png?text=Kayak+1P",
+    "asin": "B0KAYAK002",
+    "bullets": ["Lichtgewicht", "Snel op te blazen", "Ideaal voor vakantie"]
+  },
+  {
+    "slug": "pro-sup-allround-10-6",
+    "title": "Pro SUP Allround 10'6 (Beginner Friendly)",
+    "categorySlug": "sup-boards",
+    "priceEUR": 249,
+    "rating": 4.6,
+    "reviewCount": 431,
+    "imageUrl": "https://placehold.co/900x600/png?text=SUP+10%276",
+    "asin": "B0SUP00001",
+    "bullets": ["Stabiel allround board", "Anti-slip deck", "Met pomp & leash"]
+  },
+  {
+    "slug": "touring-sup-12-6",
+    "title": "Touring SUP 12'6 (Snel & Recht)",
+    "categorySlug": "sup-boards",
+    "priceEUR": 329,
+    "rating": 4.5,
+    "reviewCount": 204,
+    "imageUrl": "https://placehold.co/900x600/png?text=Touring+SUP",
+    "asin": "B0SUP00002",
+    "bullets": ["Touring shape", "Meer snelheid", "Extra bagage elastieken"]
+  },
+  {
+    "slug": "angler-boat-300",
+    "title": "Angler Opblaasbare Vissersboot 300",
+    "categorySlug": "vissersboten",
+    "priceEUR": 389,
+    "rating": 4.3,
+    "reviewCount": 77,
+    "imageUrl": "https://placehold.co/900x600/png?text=Vissersboot",
+    "asin": "B0FISH0001",
+    "bullets": ["Hoge draagkracht", "Peddelsteunen", "Ruimte voor uitrusting"]
+  },
+  {
+    "slug": "float-fishing-tube",
+    "title": "Float Fishing Tube (Licht & Wendbaar)",
+    "categorySlug": "vissersboten",
+    "priceEUR": 159,
+    "rating": 4.1,
+    "reviewCount": 63,
+    "imageUrl": "https://placehold.co/900x600/png?text=Fishing+Tube",
+    "asin": "B0FISH0002",
+    "bullets": ["Compact", "Snelle setup", "Ideaal op stilstaand water"]
+  },
+  {
+    "slug": "kids-boat-unicorn",
+    "title": "Kinderboot Unicorn (Met Handvat)",
+    "categorySlug": "kinderboten",
+    "priceEUR": 29,
+    "rating": 4.7,
+    "reviewCount": 1203,
+    "imageUrl": "https://placehold.co/900x600/png?text=Kinderboot",
+    "asin": "B0KIDS0001",
+    "bullets": ["Super populair", "Veilig handvat", "Zacht vinyl"]
+  },
+  {
+    "slug": "kids-boat-race-car",
+    "title": "Kinderboot Race Car (Splash Proof)",
+    "categorySlug": "kinderboten",
+    "priceEUR": 24,
+    "rating": 4.5,
+    "reviewCount": 544,
+    "imageUrl": "https://placehold.co/900x600/png?text=Race+Boat",
+    "asin": "B0KIDS0002",
+    "bullets": ["Stevig", "Leuk design", "Makkelijk op te blazen"]
+  },
+  {
+    "slug": "family-pool-305",
+    "title": "Family Zwembad 305cm (Snelle Setup)",
+    "categorySlug": "zwembaden",
+    "priceEUR": 79,
+    "rating": 4.4,
+    "reviewCount": 312,
+    "imageUrl": "https://placehold.co/900x600/png?text=Zwembad+305",
+    "asin": "B0POOL0001",
+    "bullets": ["305cm", "Gezinsformaat", "Gemakkelijk leeg te laten"]
+  },
+  {
+    "slug": "kids-pool-splash",
+    "title": "Kids Splash Zwembad (Klein)",
+    "categorySlug": "zwembaden",
+    "priceEUR": 19,
+    "rating": 4.3,
+    "reviewCount": 889,
+    "imageUrl": "https://placehold.co/900x600/png?text=Kids+Pool",
+    "asin": "B0POOL0002",
+    "bullets": ["Voor peuters", "Zacht materiaal", "Perfect voor warm weer"]
+  },
+  {
+    "slug": "electric-pump-12v",
+    "title": "Elektrische Pomp 12V (Snel Opblazen)",
+    "categorySlug": "accessoires",
+    "priceEUR": 39,
+    "rating": 4.2,
+    "reviewCount": 156,
+    "imageUrl": "https://placehold.co/900x600/png?text=Pomp+12V",
+    "asin": "B0ACC0001",
+    "bullets": ["12V auto aansluiting", "Snel", "Meerdere nozzles"]
+  },
+  {
+    "slug": "repair-kit-pro",
+    "title": "Reparatieset Pro (PVC + Patch)",
+    "categorySlug": "accessoires",
+    "priceEUR": 14,
+    "rating": 4.6,
+    "reviewCount": 402,
+    "imageUrl": "https://placehold.co/900x600/png?text=Repair+Kit",
+    "asin": "B0ACC0002",
+    "bullets": ["Voor noodgevallen", "Sterke lijm", "Meerdere patches"]
+  }
+]

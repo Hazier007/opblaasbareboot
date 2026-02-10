@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "kayaks",
+    "name": "Kayaks",
+    "description": "Opblaasbare kayaks voor ontspanning, avontuur en vakantie."
+  },
+  {
+    "slug": "sup-boards",
+    "name": "SUP Boards",
+    "description": "Stand up paddle boards: stabiel, compact en ideaal voor op reis."
+  },
+  {
+    "slug": "vissersboten",
+    "name": "Vissersboten",
+    "description": "Opblaasbare vissersboten met ruimte, draagkracht en accessoires."
+  },
+  {
+    "slug": "kinderboten",
+    "name": "Kinderboten",
+    "description": "Veilige, leuke opblaasbare bootjes voor kinderen."
+  },
+  {
+    "slug": "zwembaden",
+    "name": "Zwembaden",
+    "description": "Opblaasbare zwembaden en fun-inflatable waterplezier."
+  },
+  {
+    "slug": "accessoires",
+    "name": "Accessoires",
+    "description": "Pompen, peddels, reparatiesets, drybags en meer."
+  }
+]
