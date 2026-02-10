@@ -28,8 +28,8 @@ export function ProductCard({ product }: { product: Product }) {
       <div className="p-5">
         <h3 className="line-clamp-2 text-base font-semibold text-white">{product.title}</h3>
         <div className="mt-2 flex items-center justify-between text-sm">
-          <span className="text-zinc-300">⭐ {product.rating.toFixed(1)}</span>
-          <span className="font-semibold text-accent">{euro(product.priceEUR)}</span>
+          <span className="text-zinc-300">Rating: {product.rating.toFixed(1)}</span>
+          <span className="font-semibold text-primary">{euro(product.priceEUR)}</span>
         </div>
       </div>
     </Link>

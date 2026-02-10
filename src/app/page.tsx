@@ -12,27 +12,27 @@ export default function HomePage() {
   return (
     <main>
       <section className="relative overflow-hidden py-14">
-        <div className="pointer-events-none absolute inset-0 opacity-70">
-          <div className="absolute -top-40 left-1/2 h-[520px] w-[520px] -translate-x-1/2 rounded-full bg-accent/20 blur-3xl" />
-          <div className="absolute -bottom-40 right-0 h-[420px] w-[420px] rounded-full bg-white/10 blur-3xl" />
+        <div className="pointer-events-none absolute inset-0 opacity-80">
+          <div className="absolute -top-40 left-1/2 h-[520px] w-[520px] -translate-x-1/2 rounded-full bg-primary/20 blur-3xl" />
+          <div className="absolute -bottom-44 right-0 h-[520px] w-[520px] rounded-full bg-secondary/20 blur-3xl" />
         </div>
 
         <Container>
           <div className="relative grid gap-10 md:grid-cols-2 md:items-center">
             <div>
-              <p className="text-sm font-semibold text-accent">Amazon NL affiliate</p>
+              <p className="text-sm font-semibold text-primary">Amazon NL affiliate</p>
               <h1 className="mt-3 text-4xl font-semibold tracking-tight text-white md:text-5xl">
-                Opblaasbare boten, kayaks & SUP —
-                <span className="text-accent"> clean gekozen</span>
+                Opblaasbare boten, kayaks & SUP
+                <span className="text-primary">. Clean gekozen.</span>
               </h1>
               <p className="mt-4 text-lg text-zinc-300">
-                Een snelle gids om de juiste opblaasbare boot te kiezen. Categorie → product →
-                Amazon.
+                Een snelle gids om de juiste opblaasbare boot te kiezen. Categorie naar product en
+                dan Amazon.
               </p>
               <div className="mt-6 flex flex-wrap gap-3">
                 <Link
                   href="/categorie/kayaks"
-                  className="rounded-full bg-accent px-5 py-3 text-sm font-semibold text-zinc-950 hover:brightness-110"
+                  className="rounded-full bg-aqua-gradient px-5 py-3 text-sm font-semibold text-navy hover:brightness-110"
                 >
                   Start met Kayaks
                 </Link>
@@ -52,10 +52,10 @@ export default function HomePage() {
                   <li key={c.slug}>
                     <Link
                       href={`/categorie/${c.slug}`}
-                      className="flex items-center justify-between rounded-2xl border border-white/10 bg-zinc-950/40 px-4 py-3 hover:border-white/20"
+                      className="flex items-center justify-between rounded-2xl border border-white/10 bg-navy/40 px-4 py-3 hover:border-white/20"
                     >
                       <span className="font-semibold text-white">{c.name}</span>
-                      <span className="text-accent">→</span>
+                      <span className="text-primary">&gt;</span>
                     </Link>
                   </li>
                 ))}
@@ -73,9 +73,7 @@ export default function HomePage() {
           <div className="flex items-end justify-between gap-6">
             <div>
               <h2 className="text-2xl font-semibold text-white">Categorieën</h2>
-              <p className="mt-1 text-zinc-300">
-                Programmatic SEO structuur: <code className="text-accent">/categorie/[slug]</code>
-              </p>
+              {/* (removed) */}
             </div>
           </div>
 
@@ -92,11 +90,9 @@ export default function HomePage() {
           <div className="flex items-end justify-between gap-6">
             <div>
               <h2 className="text-2xl font-semibold text-white">Top producten</h2>
-              <p className="mt-1 text-zinc-300">
-                Product detail: <code className="text-accent">/product/[slug]</code>
-              </p>
+              {/* (removed) */}
             </div>
-            <span className="hidden text-sm text-zinc-400 md:block">Dummy ranking (rating × reviews)</span>
+            <span className="hidden text-sm text-zinc-400 md:block">Dummy ranking (rating x reviews)</span>
           </div>
 
           <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">

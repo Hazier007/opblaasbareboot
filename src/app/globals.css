@@ -3,7 +3,9 @@
 @tailwind utilities;
 
 :root {
-  --accent: #f5911e;
+  --primary: #06b6d4;
+  --secondary: #0ea5e9;
+  --navy: #0a1628;
 }
 
 html,
@@ -12,16 +14,14 @@ body {
 }
 
 body {
-  @apply bg-zinc-950 text-zinc-50;
+  @apply bg-navy text-zinc-50;
 }
 
-/* Nice readable links */
 a {
   @apply text-zinc-100 hover:text-white;
 }
 
-/* Focus ring */
 :focus-visible {
-  outline: 2px solid var(--accent);
+  outline: 2px solid var(--primary);
   outline-offset: 2px;
 }

@@ -9,7 +9,7 @@ export default function NotFound() {
         <p className="mt-2 text-zinc-300">Die URL bestaat niet (meer).</p>
         <Link
           href="/"
-          className="mt-6 inline-flex rounded-full bg-accent px-5 py-3 text-sm font-semibold text-zinc-950 hover:brightness-110"
+          className="mt-6 inline-flex rounded-full bg-aqua-gradient px-5 py-3 text-sm font-semibold text-navy hover:brightness-110"
         >
           Terug naar home
         </Link>

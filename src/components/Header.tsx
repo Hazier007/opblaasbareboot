@@ -12,11 +12,11 @@ const NAV = [
 
 export function Header() {
   return (
-    <header className="sticky top-0 z-20 border-b border-white/10 bg-zinc-950/80 backdrop-blur">
+    <header className="sticky top-0 z-20 border-b border-white/10 bg-navy/80 backdrop-blur">
       <Container>
         <div className="flex items-center justify-between py-4">
           <Link href="/" className="font-semibold tracking-tight">
-            <span className="text-accent">opblaasbare</span>boot.be
+            <span className="text-primary">opblaasbare</span>boot.be
           </Link>
           <nav className="hidden gap-5 text-sm text-zinc-200 md:flex">
             {NAV.map((i) => (
@@ -27,7 +27,7 @@ export function Header() {
           </nav>
           <a
             href="#topproducten"
-            className="rounded-full bg-accent px-4 py-2 text-sm font-semibold text-zinc-950 hover:brightness-110"
+            className="rounded-full bg-aqua-gradient px-4 py-2 text-sm font-semibold text-navy hover:brightness-110"
           >
             Top producten
           </a>

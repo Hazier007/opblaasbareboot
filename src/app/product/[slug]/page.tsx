@@ -67,9 +67,9 @@ export default function ProductPage({ params }: { params: Params }) {
             <h1 className="text-3xl font-semibold tracking-tight text-white">{product.title}</h1>
             <div className="mt-3 flex flex-wrap items-center gap-4 text-sm text-zinc-300">
               <span>
-                ⭐ {product.rating.toFixed(1)} ({product.reviewCount} reviews)
+                Rating: {product.rating.toFixed(1)} ({product.reviewCount} reviews)
               </span>
-              <span className="font-semibold text-accent">{euro(product.priceEUR)}</span>
+              <span className="font-semibold text-primary">{euro(product.priceEUR)}</span>
             </div>
 
             <ul className="mt-6 list-disc space-y-2 pl-5 text-zinc-200">
@@ -83,7 +83,7 @@ export default function ProductPage({ params }: { params: Params }) {
                 href={affiliateUrl}
                 target="_blank"
                 rel="nofollow sponsored noopener"
-                className="rounded-full bg-accent px-6 py-3 text-sm font-semibold text-zinc-950 hover:brightness-110"
+                className="rounded-full bg-aqua-gradient px-6 py-3 text-sm font-semibold text-navy hover:brightness-110"
               >
                 Bekijk op Amazon
               </a>

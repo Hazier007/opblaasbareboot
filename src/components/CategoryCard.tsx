@@ -12,7 +12,7 @@ export function CategoryCard({ category }: { category: Category }) {
           <h3 className="text-lg font-semibold text-white">{category.name}</h3>
           <p className="mt-1 text-sm text-zinc-300">{category.description}</p>
         </div>
-        <span className="mt-1 text-accent transition group-hover:translate-x-0.5">→</span>
+        <span className="mt-1 text-primary transition group-hover:translate-x-0.5">&gt;</span>
       </div>
     </Link>
   );
