@@ -111,26 +111,59 @@ Belangrijkste realiteit-check: “gratis & onbeperkt” kan enkel als je **zelf 
 
 ---
 
-## 4) Hoe koppel je een lokaal model aan OpenClaw?
+## 4) Beste model per box (concreet voor Bart z’n VPS)
+
+**Specs (gegeven):** 4 cores, 16GB RAM, 200GB disk, geen GPU.
+
+### Aanbevolen start (balanced)
+- **Model:** `llama3.1:8b-instruct` (of `llama3.3` als je die liever gebruikt in Ollama)
+- **Runtime:** **Ollama** (simpelste)
+- **Quantization:** laat Ollama de default pakken; als RAM krap wordt, kies een kleinere variant (7B) of lagere context.
+
+**Waarom:** 8B is op 16GB RAM haalbaar en geeft de beste “general writing” voor longform zonder GPU.
+
+### Alternatief (sneller, iets lagere kwaliteit)
+- **Model:** `mistral:7b-instruct` (of gelijkaardig 7B Instruct)
+- **Waarom:** vaak sneller op CPU en licht qua RAM.
+
+### Niet doen op deze VPS
+- 14B+ modellen als “dedicated writer”: het kan soms met agressieve quantization, maar op 4 cores ga je throughput/latency irritant vinden.
+
+### Verwachting snelheid (ruw)
+- Reken op **enkele minuten per 1500–2500 woorden** (afhankelijk van prompt, context, en model). Voor bulk productie: batch ’s nachts of paralleliseer over meerdere VPS’en.
+
+---
+
+## 5) Hoe koppel je een lokaal model aan OpenClaw?
 
 Er zijn 2 praktische routes:
 
 ### Route A — **Gebruik de ingebouwde Ollama provider** (aanbevolen)
 OpenClaw kan Ollama auto-discoveren als je `OLLAMA_API_KEY` zet (any value).
 
-**Voorbeeld:**
+**1) Ollama installeren + model pull (op de VPS):**
+```bash
+# install volgens ollama docs voor Linux
+ollama pull llama3.1:8b-instruct
+# alternatief
+ollama pull mistral:7b-instruct
+```
+
+**2) OpenClaw: Ollama provider aanzetten**
 ```bash
 export OLLAMA_API_KEY="ollama-local"
 ```
 
-Dan in OpenClaw config:
+**3) OpenClaw: model selecteren**
 ```json5
 {
   agents: {
     defaults: {
-      model: { primary: "ollama/llama3.3" }
-    }
-  }
+      model: { primary: "ollama/llama3.1:8b-instruct" },
+      // optional fallbacks
+      // model: { primary: "ollama/llama3.1:8b-instruct", fallbacks: ["ollama/mistral:7b-instruct"] }
+    },
+  },
 }
 ```
 
