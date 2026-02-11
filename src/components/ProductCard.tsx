@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import type { Product } from "@/lib/types";
 
@@ -15,14 +16,13 @@ export function ProductCard({ product }: { product: Product }) {
       href={`/product/${product.slug}`}
       className="group overflow-hidden rounded-2xl border border-white/10 bg-white/5 shadow-soft transition hover:border-white/20 hover:bg-white/10"
     >
-      <div className="aspect-[3/2] w-full overflow-hidden bg-zinc-900">
-        {/* Using <img> keeps MVP simple (no Next remote image config). */}
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img
+      <div className="relative aspect-[3/2] w-full overflow-hidden bg-zinc-900">
+        <Image
           src={product.imageUrl}
           alt={product.title}
-          className="h-full w-full object-cover transition group-hover:scale-[1.02]"
-          loading="lazy"
+          fill
+          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+          className="object-cover transition group-hover:scale-[1.02]"
         />
       </div>
       <div className="p-5">

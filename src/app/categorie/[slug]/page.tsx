@@ -15,7 +15,7 @@ export function generateMetadata({ params }: { params: Params }): Metadata {
   const category = getCategory(params.slug);
   if (!category) return {};
 
-  const title = `${category.name} kopen & vergelijken`;
+  const title = `${category.name} kopen & vergelijken | Opblaasbareboot.be`;
   return {
     title,
     description: category.description,
@@ -49,6 +49,24 @@ export default function CategoryPage({ params }: { params: Params }) {
             <ProductCard key={p.slug} product={p} />
           ))}
         </div>
+
+        <section className="mt-10 rounded-3xl border border-white/10 bg-white/5 p-6 shadow-soft">
+          <h2 className="text-lg font-semibold text-white">Andere categorieën</h2>
+          <p className="mt-2 text-sm text-zinc-300">
+            Sneller vergelijken? Spring naar een andere categorie en bekijk de top producten.
+          </p>
+          <div className="mt-4 flex flex-wrap gap-2">
+            {CATEGORIES.filter((c) => c.slug !== category.slug).map((c) => (
+              <Link
+                key={c.slug}
+                href={`/categorie/${c.slug}`}
+                className="rounded-full border border-white/15 bg-white/5 px-4 py-2 text-sm font-semibold text-white hover:bg-white/10"
+              >
+                {c.name}
+              </Link>
+            ))}
+          </div>
+        </section>
       </Container>
     </main>
   );

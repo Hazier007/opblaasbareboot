@@ -2,7 +2,7 @@ import Link from "next/link";
 import { Container } from "@/components/Container";
 import { CategoryCard } from "@/components/CategoryCard";
 import { ProductCard } from "@/components/ProductCard";
-import { LiquidEther } from "@/components/LiquidEther";
+// (removed LiquidEther background)
 import { CATEGORIES, PRODUCTS } from "@/lib/data";
 
 export default function HomePage() {
@@ -13,7 +13,7 @@ export default function HomePage() {
   return (
     <main>
       <section className="relative overflow-hidden py-16">
-        <LiquidEther />
+        <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(1200px_circle_at_30%_20%,rgba(6,182,212,0.35),transparent_55%),radial-gradient(900px_circle_at_80%_30%,rgba(37,99,235,0.25),transparent_60%),linear-gradient(to_bottom,rgba(10,10,20,0.9),rgba(10,10,20,0.98))]" />
 
         <Container>
           <div className="relative grid gap-10 md:grid-cols-2 md:items-center">
