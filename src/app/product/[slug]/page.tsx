@@ -3,7 +3,9 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Container } from "@/components/Container";
-import { PRODUCTS, amazonAffiliateUrl, getCategory, getProduct, getProductsByCategory } from "@/lib/data";
+import { PRODUCTS, amazonAffiliateUrl, getCategory, getProduct } from "@/lib/data";
+import { getRelatedProducts } from "@/lib/related";
+import { formatCapacity, formatPriceBand, inferCapacityPersons, inferPriceBand } from "@/lib/productSpecs";
 
 type Params = { slug: string };
 
@@ -37,9 +39,10 @@ export default function ProductPage({ params }: { params: Params }) {
   const category = getCategory(product.categorySlug);
   const affiliateUrl = amazonAffiliateUrl(product.asin);
 
-  const related = getProductsByCategory(product.categorySlug)
-    .filter((p) => p.slug !== product.slug)
-    .slice(0, 4);
+  const related = getRelatedProducts(product, PRODUCTS, 4);
+
+  const inferredCapacity = product.capacityPersons ?? inferCapacityPersons(product);
+  const priceBand = inferPriceBand(product.priceEUR);
 
   const productJsonLd = {
     "@context": "https://schema.org",
@@ -47,7 +50,7 @@ export default function ProductPage({ params }: { params: Params }) {
     name: product.title,
     image: [product.imageUrl],
     description: product.bullets.join(" · "),
-    brand: { "@type": "Brand", name: "Amazon" },
+    brand: { "@type": "Brand", name: product.brand ?? "Amazon" },
     offers: {
       "@type": "Offer",
       url: affiliateUrl,
@@ -143,6 +146,14 @@ export default function ProductPage({ params }: { params: Params }) {
                   <tr>
                     <th className="w-44 bg-white/5 px-4 py-3 text-left font-semibold text-zinc-200">Categorie</th>
                     <td className="px-4 py-3 text-zinc-300">{category?.name ?? product.categorySlug}</td>
+                  </tr>
+                  <tr>
+                    <th className="bg-white/5 px-4 py-3 text-left font-semibold text-zinc-200">Capaciteit</th>
+                    <td className="px-4 py-3 text-zinc-300">{formatCapacity(inferredCapacity)}</td>
+                  </tr>
+                  <tr>
+                    <th className="bg-white/5 px-4 py-3 text-left font-semibold text-zinc-200">Prijsrange</th>
+                    <td className="px-4 py-3 text-zinc-300">{formatPriceBand(priceBand)}</td>
                   </tr>
                   <tr>
                     <th className="bg-white/5 px-4 py-3 text-left font-semibold text-zinc-200">Prijs (indicatie)</th>
