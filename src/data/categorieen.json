@@ -28,5 +28,20 @@
     "slug": "accessoires",
     "name": "Accessoires",
     "description": "Pompen, peddels, reparatiesets, drybags en meer."
+  },
+  {
+    "slug": "opblaasboot",
+    "name": "Opblaasboot",
+    "description": "Recreatieve opblaasboten (zonder motor) voor 1–4 personen."
+  },
+  {
+    "slug": "rubberboot-met-motor",
+    "name": "Rubberboot met motor",
+    "description": "Stevigere rubberboten en tenders die geschikt zijn voor (buitenboord)motor."
+  },
+  {
+    "slug": "opblaas-visboot",
+    "name": "Opblaas visboot",
+    "description": "Fishing-gerichte opblaasboten: stabiel, draagkrachtig en praktisch voor hengelsport."
   }
 ]
