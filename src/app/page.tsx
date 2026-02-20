@@ -59,7 +59,7 @@ export default function HomePage() {
                 ))}
               </ul>
               <p className="mt-4 text-xs text-zinc-400">
-                MVP data is dummy. Later koppelen we echte productfeeds.
+                Handmatig geselecteerde topproducten met Amazon affiliate links.
               </p>
             </div>
           </div>

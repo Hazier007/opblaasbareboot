@@ -1,134 +1,570 @@
 [
   {
-    "slug": "aqua-glide-kayak-2p",
-    "title": "AquaGlide Opblaasbare Kayak 2-Persoons",
+    "slug": "itiwit-opblaasbare-recreatieve-kajak-2-personen",
+    "title": "Itiwit Opblaasbare Recreatieve Kajak 2 Personen",
     "categorySlug": "kayaks",
-    "priceEUR": 299,
-    "rating": 4.4,
-    "reviewCount": 186,
-    "imageUrl": "https://placehold.co/900x600/png?text=Kayak+2P",
-    "asin": "B0KAYAK001",
-    "bullets": ["2 persoons", "Stevige drop-stitch bodem", "Inclusief draagtas"]
-  },
-  {
-    "slug": "traveller-kayak-1p",
-    "title": "Traveller Kayak 1-Persoons (Compact)",
-    "categorySlug": "kayaks",
-    "priceEUR": 219,
+    "priceEUR": 199,
     "rating": 4.2,
-    "reviewCount": 92,
-    "imageUrl": "https://placehold.co/900x600/png?text=Kayak+1P",
-    "asin": "B0KAYAK002",
-    "bullets": ["Lichtgewicht", "Snel op te blazen", "Ideaal voor vakantie"]
+    "reviewCount": 24,
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "asin": "B088BDCQCZ",
+    "amazonUrl": "https://www.amazon.nl/dp/B088BDCQCZ?tag=bootjes-21",
+    "bullets": [
+      "Geschikt voor 2 personen (max 150 kg)",
+      "Afmetingen: 335 x 75 x 15 cm",
+      "Stabiele constructie met verstevigde PVC",
+      "Inclusief dubbele peddel en draagtas",
+      "Gemakkelijk op te blazen en compact op te bergen"
+    ],
+    "specifications": {
+      "lengte": "335 cm",
+      "breedte": "75 cm",
+      "hoogte": "15 cm", 
+      "gewicht": "14 kg",
+      "materiaal": "PVC met polyester versterking",
+      "capaciteit": "150 kg",
+      "personen": "2"
+    }
   },
   {
-    "slug": "pro-sup-allround-10-6",
-    "title": "Pro SUP Allround 10'6 (Beginner Friendly)",
+    "slug": "sevylor-tahaa-kayak-2-personen",
+    "title": "Sevylor Tahaa Opblaasbare Kajak 2 Personen",
+    "categorySlug": "kayaks",
+    "priceEUR": 159,
+    "rating": 4.3,
+    "reviewCount": 87,
+    "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "asin": "B08PC4JTWK",
+    "amazonUrl": "https://www.amazon.nl/dp/B08PC4JTWK?tag=bootjes-21",
+    "bullets": [
+      "Robuuste PVC constructie",
+      "312 x 92 cm, draagvermogen 160 kg",
+      "Boston ventielen voor eenvoudig oppompen",
+      "Inclusief reparatieset",
+      "Barconstructie voor extra stabiliteit"
+    ],
+    "specifications": {
+      "lengte": "312 cm",
+      "breedte": "92 cm", 
+      "hoogte": "45 cm",
+      "gewicht": "8 kg",
+      "materiaal": "PVC",
+      "capaciteit": "160 kg",
+      "personen": "2"
+    }
+  },
+  {
+    "slug": "sevylor-colorado-kit-2-personen",
+    "title": "Sevylor Colorado Kit Opblaasbare Kano 2 Personen",
+    "categorySlug": "kayaks",
+    "priceEUR": 269,
+    "rating": 4.5,
+    "reviewCount": 134,
+    "imageUrl": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "asin": "B07VQMN8K9",
+    "amazonUrl": "https://www.amazon.nl/dp/B07VQMN8K9?tag=bootjes-21",
+    "bullets": [
+      "Compleet pakket met dubbele peddel en voetpomp",
+      "331 x 88 cm, ideaal voor recreatief gebruik",
+      "Tarpaulin bodem voor extra duurzaamheid",
+      "Verstelbare zitplaatsen",
+      "Opbergvak voor persoonlijke spullen"
+    ],
+    "specifications": {
+      "lengte": "331 cm",
+      "breedte": "88 cm",
+      "hoogte": "48 cm",
+      "gewicht": "15 kg",
+      "materiaal": "PVC met Tarpaulin bodem",
+      "capaciteit": "200 kg",
+      "personen": "2"
+    }
+  },
+  {
+    "slug": "moai-inflatable-sup-11-voet",
+    "title": "MOAI Opblaasbare SUP Stand Up Paddle Board 11'",
     "categorySlug": "sup-boards",
     "priceEUR": 249,
-    "rating": 4.6,
-    "reviewCount": 431,
-    "imageUrl": "https://placehold.co/900x600/png?text=SUP+10%276",
-    "asin": "B0SUP00001",
-    "bullets": ["Stabiel allround board", "Anti-slip deck", "Met pomp & leash"]
+    "rating": 3.6,
+    "reviewCount": 6,
+    "imageUrl": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "asin": "B07P1TDVZP",
+    "amazonUrl": "https://www.amazon.nl/dp/B07P1TDVZP?tag=bootjes-21",
+    "bullets": [
+      "Fusion Technology voor extra stijfheid",
+      "335 x 75 x 15 cm, maximaal 150 kg",
+      "Geschikt voor alle vaardigheidsniveaus",
+      "Anti-slip EVA dekpad",
+      "Verkrijgbaar in verschillende kleuren"
+    ],
+    "specifications": {
+      "lengte": "335 cm",
+      "breedte": "75 cm",
+      "dikte": "15 cm",
+      "gewicht": "10 kg",
+      "materiaal": "Drop-stitch PVC",
+      "capaciteit": "150 kg",
+      "personen": "1"
+    }
   },
   {
-    "slug": "touring-sup-12-6",
-    "title": "Touring SUP 12'6 (Snel & Recht)",
+    "slug": "costway-sup-board-opblaasbaar",
+    "title": "COSTWAY Opblaasbaar SUP Board met Accessoires",
     "categorySlug": "sup-boards",
-    "priceEUR": 329,
-    "rating": 4.5,
-    "reviewCount": 204,
-    "imageUrl": "https://placehold.co/900x600/png?text=Touring+SUP",
-    "asin": "B0SUP00002",
-    "bullets": ["Touring shape", "Meer snelheid", "Extra bagage elastieken"]
-  },
-  {
-    "slug": "angler-boat-300",
-    "title": "Angler Opblaasbare Vissersboot 300",
-    "categorySlug": "vissersboten",
-    "priceEUR": 389,
-    "rating": 4.3,
-    "reviewCount": 77,
-    "imageUrl": "https://placehold.co/900x600/png?text=Vissersboot",
-    "asin": "B0FISH0001",
-    "bullets": ["Hoge draagkracht", "Peddelsteunen", "Ruimte voor uitrusting"]
-  },
-  {
-    "slug": "float-fishing-tube",
-    "title": "Float Fishing Tube (Licht & Wendbaar)",
-    "categorySlug": "vissersboten",
-    "priceEUR": 159,
+    "priceEUR": 189,
     "rating": 4.1,
-    "reviewCount": 63,
-    "imageUrl": "https://placehold.co/900x600/png?text=Fishing+Tube",
-    "asin": "B0FISH0002",
-    "bullets": ["Compact", "Snelle setup", "Ideaal op stilstaand water"]
+    "reviewCount": 92,
+    "imageUrl": "https://images.unsplash.com/photo-1565713866977-05e8ba1cb79f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "asin": "B08975KVP4",
+    "amazonUrl": "https://www.amazon.nl/dp/B08975KVP4?tag=bootjes-21",
+    "bullets": [
+      "Compleet pakket met peddel, pomp en rugzak",
+      "Veiligheidslijn en middenvin inbegrepen",
+      "Extra breed ontwerp voor stabiliteit",
+      "Premium PVC constructie",
+      "Geschikt voor beginners"
+    ],
+    "specifications": {
+      "lengte": "305 cm",
+      "breedte": "76 cm",
+      "dikte": "15 cm",
+      "gewicht": "8.5 kg",
+      "materiaal": "Militaire PVC",
+      "capaciteit": "120 kg",
+      "personen": "1"
+    }
   },
   {
-    "slug": "kids-boat-unicorn",
-    "title": "Kinderboot Unicorn (Met Handvat)",
-    "categorySlug": "kinderboten",
-    "priceEUR": 29,
-    "rating": 4.7,
-    "reviewCount": 1203,
-    "imageUrl": "https://placehold.co/900x600/png?text=Kinderboot",
-    "asin": "B0KIDS0001",
-    "bullets": ["Super populair", "Veilig handvat", "Zacht vinyl"]
+    "slug": "ultralichte-sup-board-10-voet",
+    "title": "Ultralichte Opblaasbare SUP Board 10' x 30\"",
+    "categorySlug": "sup-boards",
+    "priceEUR": 169,
+    "rating": 4.4,
+    "reviewCount": 156,
+    "imageUrl": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "asin": "B09MJXLJJ7",
+    "amazonUrl": "https://www.amazon.nl/dp/B09MJXLJJ7?tag=bootjes-21",
+    "bullets": [
+      "Ultralicht ontwerp voor eenvoudig transport",
+      "Inclusief waterdicht telefoonhoesje",
+      "Verstelbare telescopische peddel",
+      "Anti-slip EVA pad",
+      "Ideaal voor beginners en kinderen"
+    ],
+    "specifications": {
+      "lengte": "305 cm",
+      "breedte": "76 cm", 
+      "dikte": "18 cm",
+      "gewicht": "7.2 kg",
+      "materiaal": "Drop-stitch PVC",
+      "capaciteit": "110 kg",
+      "personen": "1"
+    }
   },
   {
-    "slug": "kids-boat-race-car",
-    "title": "Kinderboot Race Car (Splash Proof)",
+    "slug": "artsport-opblaasbare-rubberboot-38m",
+    "title": "ArtSport Opblaasbare Rubberboot 3.8m voor 6 Personen",
+    "categorySlug": "vissersboten",
+    "priceEUR": 399,
+    "rating": 4.2,
+    "reviewCount": 43,
+    "imageUrl": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "asin": "B07BDKHQWZ",
+    "amazonUrl": "https://www.amazon.nl/dp/B07BDKHQWZ?tag=bootjes-21",
+    "bullets": [
+      "Grote boot voor 6 personen",
+      "Aluminium bodem voor extra stevigheid",
+      "Inclusief peddels, pomp en reparatieset",
+      "2 comfortabele zitbanken",
+      "Geschikt voor motoraandrijving"
+    ],
+    "specifications": {
+      "lengte": "380 cm",
+      "breedte": "180 cm",
+      "hoogte": "42 cm",
+      "gewicht": "45 kg",
+      "materiaal": "PVC met aluminium bodem",
+      "capaciteit": "600 kg",
+      "personen": "6"
+    }
+  },
+  {
+    "slug": "bark-bt-motorboot-4-personen",
+    "title": "BARK BT-330 Opblaasbare Motorboot 4 Personen", 
+    "categorySlug": "vissersboten",
+    "priceEUR": 589,
+    "rating": 4.5,
+    "reviewCount": 28,
+    "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "asin": "B07RNH1LKW",
+    "amazonUrl": "https://www.amazon.nl/dp/B07RNH1LKW?tag=bootjes-21",
+    "bullets": [
+      "Professionele vissersboot voor 4 personen",
+      "Compatibel met buitenboordmotor",
+      "Verstevigde transom voor motor",
+      "Zelfzelfvullende vloer",
+      "Compact en lichtgewicht ontwerp"
+    ],
+    "specifications": {
+      "lengte": "330 cm",
+      "breedte": "155 cm",
+      "hoogte": "40 cm",
+      "gewicht": "35 kg",
+      "materiaal": "PVC 1100 dtex",
+      "capaciteit": "450 kg",
+      "personen": "4"
+    }
+  },
+  {
+    "slug": "opblaasbare-vissersboot-4-personen",
+    "title": "Opblaasbare Vissersboot voor 4 Personen - Draagbaar",
+    "categorySlug": "vissersboten",
+    "priceEUR": 329,
+    "rating": 3.9,
+    "reviewCount": 51,
+    "imageUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "asin": "B0D2M75H1F",
+    "amazonUrl": "https://www.amazon.nl/dp/B0D2M75H1F?tag=bootjes-21",
+    "bullets": [
+      "Comfortabele opblaasbare vloer en kussens",
+      "Hoogwaardig PVC materiaal (1.2mm dik)",
+      "Luchtdicht en duurzaam",
+      "Verschillende zitopties mogelijk",
+      "Ideaal voor recreatief vissen"
+    ],
+    "specifications": {
+      "lengte": "300 cm",
+      "breedte": "140 cm",
+      "hoogte": "38 cm",
+      "gewicht": "28 kg",
+      "materiaal": "PVC 1.2mm",
+      "capaciteit": "400 kg",
+      "personen": "4"
+    }
+  },
+  {
+    "slug": "kinderboot-unicorn-veilig",
+    "title": "Opblaasbare Kinderboot Unicorn met Veiligheidshandvat",
     "categorySlug": "kinderboten",
     "priceEUR": 24,
-    "rating": 4.5,
-    "reviewCount": 544,
-    "imageUrl": "https://placehold.co/900x600/png?text=Race+Boat",
-    "asin": "B0KIDS0002",
-    "bullets": ["Stevig", "Leuk design", "Makkelijk op te blazen"]
+    "rating": 4.7,
+    "reviewCount": 428,
+    "imageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "asin": "B08XQMR5K9",
+    "amazonUrl": "https://www.amazon.nl/dp/B08XQMR5K9?tag=bootjes-21",
+    "bullets": [
+      "Populaire unicorn design",
+      "Stevige veiligheidshandvatten",
+      "Zacht en veilig vinyl materiaal",
+      "Geschikt voor kinderen 3-8 jaar",
+      "Makkelijk op te blazen"
+    ],
+    "specifications": {
+      "lengte": "102 cm",
+      "breedte": "69 cm",
+      "hoogte": "25 cm",
+      "gewicht": "0.8 kg",
+      "materiaal": "Zacht vinyl",
+      "capaciteit": "30 kg",
+      "personen": "1 kind"
+    }
   },
   {
-    "slug": "family-pool-305",
-    "title": "Family Zwembad 305cm (Snelle Setup)",
-    "categorySlug": "zwembaden",
-    "priceEUR": 79,
-    "rating": 4.4,
-    "reviewCount": 312,
-    "imageUrl": "https://placehold.co/900x600/png?text=Zwembad+305",
-    "asin": "B0POOL0001",
-    "bullets": ["305cm", "Gezinsformaat", "Gemakkelijk leeg te laten"]
-  },
-  {
-    "slug": "kids-pool-splash",
-    "title": "Kids Splash Zwembad (Klein)",
-    "categorySlug": "zwembaden",
+    "slug": "kinderboot-race-car-splash-proof",
+    "title": "Kinderboot Race Car - Splash Proof Design",
+    "categorySlug": "kinderboten", 
     "priceEUR": 19,
-    "rating": 4.3,
-    "reviewCount": 889,
-    "imageUrl": "https://placehold.co/900x600/png?text=Kids+Pool",
-    "asin": "B0POOL0002",
-    "bullets": ["Voor peuters", "Zacht materiaal", "Perfect voor warm weer"]
+    "rating": 4.5,
+    "reviewCount": 312,
+    "imageUrl": "https://images.unsplash.com/photo-1569163139394-de4e4f43e4e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "asin": "B09K5MRLX4",
+    "amazonUrl": "https://www.amazon.nl/dp/B09K5MRLX4?tag=bootjes-21",
+    "bullets": [
+      "Stoer race car ontwerp",
+      "Splash-proof constructie",
+      "Dubbele luchtkamers voor veiligheid",
+      "Gemakkelijk op te blazen",
+      "Geschikt voor zwembad en zee"
+    ],
+    "specifications": {
+      "lengte": "95 cm",
+      "breedte": "61 cm", 
+      "hoogte": "20 cm",
+      "gewicht": "0.7 kg",
+      "materiaal": "Vinyl",
+      "capaciteit": "25 kg",
+      "personen": "1 kind"
+    }
   },
   {
-    "slug": "electric-pump-12v",
-    "title": "Elektrische Pomp 12V (Snel Opblazen)",
+    "slug": "kinderboot-piraat-avontuur",
+    "title": "Opblaasbare Piratenboot voor Kinderen - Avontuur Design",
+    "categorySlug": "kinderboten",
+    "priceEUR": 34,
+    "rating": 4.6,
+    "reviewCount": 89,
+    "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "asin": "B09R3YT8M2",
+    "amazonUrl": "https://www.amazon.nl/dp/B09R3YT8M2?tag=bootjes-21",
+    "bullets": [
+      "Avontuurlijke piratenboot design",
+      "Extra grote afmetingen",
+      "Waterpistool inbegrepen",
+      "Stevige handgrepen voor veiligheid",
+      "Stimuleert fantasierijk spel"
+    ],
+    "specifications": {
+      "lengte": "130 cm",
+      "breedte": "89 cm",
+      "hoogte": "30 cm",
+      "gewicht": "1.2 kg",
+      "materiaal": "Dik vinyl",
+      "capaciteit": "40 kg",
+      "personen": "1-2 kinderen"
+    }
+  },
+  {
+    "slug": "family-zwembad-305cm-easy-set",
+    "title": "Family Zwembad 305cm Easy Set - Snelle Opbouw",
+    "categorySlug": "zwembaden",
+    "priceEUR": 89,
+    "rating": 4.3,
+    "reviewCount": 267,
+    "imageUrl": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "asin": "B084RQ8K7M",
+    "amazonUrl": "https://www.amazon.nl/dp/B084RQ8K7M?tag=bootjes-21",
+    "bullets": [
+      "Diameter 305cm, hoogte 76cm",
+      "Snelle opbouw in 15 minuten",
+      "Inclusief filterpomp",
+      "Waterinhoud: 3853 liter",
+      "Ideaal voor het hele gezin"
+    ],
+    "specifications": {
+      "diameter": "305 cm",
+      "hoogte": "76 cm",
+      "waterinhoud": "3853 L",
+      "gewicht": "15 kg",
+      "materiaal": "TriTech materiaal",
+      "capaciteit": "6-8 personen",
+      "personen": "Familie"
+    }
+  },
+  {
+    "slug": "kids-splash-zwembad-120cm",
+    "title": "Kids Splash Zwembad 120cm - Voor Peuters",
+    "categorySlug": "zwembaden",
+    "priceEUR": 24,
+    "rating": 4.4,
+    "reviewCount": 543,
+    "imageUrl": "https://images.unsplash.com/photo-1591117207239-788bf8de6c3b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "asin": "B089NZKR6L",
+    "amazonUrl": "https://www.amazon.nl/dp/B089NZKR6L?tag=bootjes-21",
+    "bullets": [
+      "Perfect formaat voor peuters",
+      "Zachte rand voor comfort",
+      "Snel op te zetten en leeg te laten",
+      "Vrolijke kleuren",
+      "Veilige diepte voor kleine kinderen"
+    ],
+    "specifications": {
+      "diameter": "120 cm",
+      "hoogte": "30 cm",
+      "waterinhoud": "280 L",
+      "gewicht": "1.5 kg",
+      "materiaal": "Zacht PVC",
+      "leeftijd": "1-4 jaar",
+      "personen": "1-3 peuters"
+    }
+  },
+  {
+    "slug": "opblaasbaar-zwembad-rechthoekig-260cm",
+    "title": "Opblaasbaar Rechthoekig Zwembad 260 x 175cm",
+    "categorySlug": "zwembaden",
+    "priceEUR": 159,
+    "rating": 4.1,
+    "reviewCount": 78,
+    "imageUrl": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "asin": "B08DKLM9R7",
+    "amazonUrl": "https://www.amazon.nl/dp/B08DKLM9R7?tag=bootjes-21",
+    "bullets": [
+      "Rechthoekige vorm voor optimaal zwemmen",
+      "3-laags constructie voor duurzaamheid",
+      "Inclusief reparatieset",
+      "Drain plug voor eenvoudig legen",
+      "Geschikt voor grote tuinen"
+    ],
+    "specifications": {
+      "lengte": "260 cm",
+      "breedte": "175 cm",
+      "hoogte": "65 cm",
+      "waterinhoud": "2300 L",
+      "gewicht": "8.5 kg", 
+      "materiaal": "3-laags PVC",
+      "capaciteit": "4-6 personen",
+      "personen": "Familie"
+    }
+  },
+  {
+    "slug": "elektrische-pomp-12v-auto",
+    "title": "Elektrische Pomp 12V Auto Aansluiting - Hoge Druk",
+    "categorySlug": "accessoires",
+    "priceEUR": 44,
+    "rating": 4.2,
+    "reviewCount": 234,
+    "imageUrl": "https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "asin": "B087N5QK4R",
+    "amazonUrl": "https://www.amazon.nl/dp/B087N5QK4R?tag=bootjes-21",
+    "bullets": [
+      "12V auto sigarettenaansteker aansluiting",
+      "Hoge druk tot 20 PSI",
+      "Meerdere adapters inbegrepen",
+      "Automatische uitschakeling",
+      "LCD display met drukmeter"
+    ],
+    "specifications": {
+      "vermogen": "120W",
+      "spanning": "12V DC",
+      "maximale_druk": "20 PSI",
+      "kabel_lengte": "3 meter",
+      "materiaal": "ABS plastic",
+      "gewicht": "1.2 kg",
+      "gebruik": "Auto aansluiting"
+    }
+  },
+  {
+    "slug": "reparatieset-pro-pvc-patches",
+    "title": "Reparatieset Pro - PVC Patches & Sterke Lijm",
+    "categorySlug": "accessoires",
+    "priceEUR": 16,
+    "rating": 4.6,
+    "reviewCount": 567,
+    "imageUrl": "https://images.unsplash.com/photo-1609205928193-b5d6cdab9240?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "asin": "B08K7RLMN9",
+    "amazonUrl": "https://www.amazon.nl/dp/B08K7RLMN9?tag=bootjes-21",
+    "bullets": [
+      "Professionele reparatielijm",
+      "10 patches in verschillende maten",
+      "Geschikt voor alle PVC materialen",
+      "Waterdichte reparaties",
+      "Eenvoudige gebruiksinstructies"
+    ],
+    "specifications": {
+      "inhoud": "Lijm 30ml + 10 patches",
+      "materiaal": "PVC patches",
+      "droogtijd": "24 uur",
+      "temperatuur": "-40°C tot +70°C",
+      "geschikt_voor": "Alle opblaasbare producten",
+      "houdbaarheid": "5 jaar",
+      "waterbestendig": "Ja"
+    }
+  },
+  {
+    "slug": "opblaasbare-peddel-aluminium",
+    "title": "Opblaasbare Peddel Aluminium - Verstelbaar & Lichtgewicht",
+    "categorySlug": "accessoires",
+    "priceEUR": 34,
+    "rating": 4.3,
+    "reviewCount": 145,
+    "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "asin": "B09JKRM8P3",
+    "amazonUrl": "https://www.amazon.nl/dp/B09JKRM8P3?tag=bootjes-21",
+    "bullets": [
+      "Verstelbare lengte 160-215 cm",
+      "Lichtgewicht aluminium schacht",
+      "Ergonomische grip",
+      "Geschikt voor SUP en kajak",
+      "Inclusief draagtas"
+    ],
+    "specifications": {
+      "lengte": "160-215 cm verstelbaar",
+      "gewicht": "0.95 kg",
+      "materiaal": "Aluminium + plastic bladen",
+      "diameter_schacht": "29mm",
+      "type": "3-delig",
+      "geschikt_voor": "SUP, Kajak",
+      "kleur": "Zwart/Oranje"
+    }
+  },
+  {
+    "slug": "waterdichte-telefoonhoes-universeel",
+    "title": "Waterdichte Telefoonhoes Universeel - IPX8 Certificering",
+    "categorySlug": "accessoires",
+    "priceEUR": 12,
+    "rating": 4.4,
+    "reviewCount": 892,
+    "imageUrl": "https://images.unsplash.com/photo-1565775928002-e0a24ef3ee72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "asin": "B087Q2N5KM",
+    "amazonUrl": "https://www.amazon.nl/dp/B087Q2N5KM?tag=bootjes-21",
+    "bullets": [
+      "IPX8 waterdicht certificaat",
+      "Geschikt voor alle smartphones tot 6.9 inch",
+      "Touchscreen blijft werken onder water",
+      "Drijvend ontwerp met nekkoord",
+      "Perfect voor watersport"
+    ],
+    "specifications": {
+      "certificering": "IPX8",
+      "afmetingen": "19 x 11 cm",
+      "geschikt_voor": "Smartphones tot 6.9 inch",
+      "diepte": "Tot 30 meter",
+      "materiaal": "TPU + PVC",
+      "gewicht": "45 gram",
+      "extra": "Drijvend + nekkoord"
+    }
+  },
+  {
+    "slug": "drybag-waterdicht-20-liter",
+    "title": "Drybag Waterdichte Tas 20 Liter - Roll Top Sluiting",
+    "categorySlug": "accessoires",
+    "priceEUR": 22,
+    "rating": 4.5,
+    "reviewCount": 178,
+    "imageUrl": "https://images.unsplash.com/photo-1520637836862-4d197d17c7a4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "asin": "B089TRQ5K7",
+    "amazonUrl": "https://www.amazon.nl/dp/B089TRQ5K7?tag=bootjes-21",
+    "bullets": [
+      "100% waterdicht met roll-top sluiting",
+      "20 liter volume voor kleding en spullen",
+      "Verstevigde naden en bodem",
+      "Verstelbare schouderband",
+      "Ideaal voor kajakken en SUPen"
+    ],
+    "specifications": {
+      "volume": "20 liter",
+      "afmetingen": "62 x 33 cm",
+      "gewicht": "280 gram",
+      "materiaal": "500D Tarpaulin PVC",
+      "sluiting": "Roll-top",
+      "certificering": "IPX7",
+      "kleur": "Geel"
+    }
+  },
+  {
+    "slug": "kajak-zitje-comfort-pro",
+    "title": "Kajak Zitje Comfort Pro - Verstelbare Rugleuning",
     "categorySlug": "accessoires",
     "priceEUR": 39,
-    "rating": 4.2,
-    "reviewCount": 156,
-    "imageUrl": "https://placehold.co/900x600/png?text=Pomp+12V",
-    "asin": "B0ACC0001",
-    "bullets": ["12V auto aansluiting", "Snel", "Meerdere nozzles"]
-  },
-  {
-    "slug": "repair-kit-pro",
-    "title": "Reparatieset Pro (PVC + Patch)",
-    "categorySlug": "accessoires",
-    "priceEUR": 14,
-    "rating": 4.6,
-    "reviewCount": 402,
-    "imageUrl": "https://placehold.co/900x600/png?text=Repair+Kit",
-    "asin": "B0ACC0002",
-    "bullets": ["Voor noodgevallen", "Sterke lijm", "Meerdere patches"]
+    "rating": 4.7,
+    "reviewCount": 203,
+    "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "asin": "B08RN7TQ3M",
+    "amazonUrl": "https://www.amazon.nl/dp/B08RN7TQ3M?tag=bootjes-21",
+    "bullets": [
+      "Verstelbare rugleuning voor optimaal comfort",
+      "Ademend mesh materiaal",
+      "Eenvoudige montage met clips",
+      "Extra rugsteun tijdens lange tochten",
+      "Geschikt voor alle kajak types"
+    ],
+    "specifications": {
+      "afmetingen": "40 x 35 x 5 cm",
+      "gewicht": "650 gram",
+      "materiaal": "Mesh + foam padding",
+      "bevestiging": "Universele clips",
+      "rugleuning": "6 standen verstelbaar",
+      "kleur": "Zwart/Grijs",
+      "geschikt_voor": "Alle kajaks"
+    }
   }
 ]
