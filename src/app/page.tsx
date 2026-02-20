@@ -90,7 +90,7 @@ export default function HomePage() {
               <h2 className="text-2xl font-semibold text-white">Top producten</h2>
               {/* (removed) */}
             </div>
-            <span className="hidden text-sm text-zinc-400 md:block">Dummy ranking (rating x reviews)</span>
+            <span className="hidden text-sm text-zinc-400 md:block">Gesorteerd op populariteit</span>
           </div>
 
           <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">

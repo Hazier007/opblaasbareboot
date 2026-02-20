@@ -2,6 +2,7 @@
   {
     "slug": "itiwit-opblaasbare-recreatieve-kajak-2-personen",
     "title": "Itiwit Opblaasbare Recreatieve Kajak 2 Personen",
+    "description": "Deze stabiele tweepersoonskajakis perfect voor beginnende kajakkers die samen willen genieten van rustige wateren. De verstevigde PVC-constructie biedt uitstekende duurzaamheid, terwijl de compacte opvouwbaarheid zorgt voor eenvoudig transport en opberging. Inclusief complete uitrusting voor directe vaarpret.",
     "categorySlug": "kayaks",
     "priceEUR": 199,
     "rating": 4.2,
@@ -29,6 +30,7 @@
   {
     "slug": "sevylor-tahaa-kayak-2-personen",
     "title": "Sevylor Tahaa Opblaasbare Kajak 2 Personen",
+    "description": "De Sevylor Tahaa combineert robuuste constructie met gebruikersvriendelijkheid in een betrouwbare tweepersoons kajak. Met zijn brede ontwerp en barconstructie biedt deze kajak superieure stabiliteit, ideaal voor familie-uitjes en recreatieve vaartochten. De Boston-ventielen maken oppompen tot een fluitje van een cent.",
     "categorySlug": "kayaks",
     "priceEUR": 159,
     "rating": 4.3,
@@ -56,6 +58,7 @@
   {
     "slug": "sevylor-colorado-kit-2-personen",
     "title": "Sevylor Colorado Kit Opblaasbare Kano 2 Personen",
+    "description": "Een complete kano-set die niets aan het toeval overlaat voor serieuze watersporters. De Colorado Kit beschikt over een verstevigde Tarpaulin-bodem voor extra duurzaamheid en verstelbare zitplaatsen voor optimaal comfort tijdens langere tochten. Het royale opbergvak houdt je persoonlijke spullen veilig en droog.",
     "categorySlug": "kayaks",
     "priceEUR": 269,
     "rating": 4.5,
@@ -83,6 +86,7 @@
   {
     "slug": "moai-inflatable-sup-11-voet",
     "title": "MOAI Opblaasbare SUP Stand Up Paddle Board 11'",
+    "description": "Met de revolutionaire Fusion Technology biedt dit SUP-board de stijfheid van een hard board in een opblaasbare vorm. Het anti-slip EVA-dekpad zorgt voor uitstekende grip in alle omstandigheden, terwijl het 11-foot formaat perfect is voor zowel beginners als gevorderde paddlers. Verkrijgbaar in verschillende kleuren om je persoonlijke stijl te matchen.",
     "categorySlug": "sup-boards",
     "priceEUR": 249,
     "rating": 3.6,
@@ -110,6 +114,7 @@
   {
     "slug": "costway-sup-board-opblaasbaar",
     "title": "COSTWAY Opblaasbaar SUP Board met Accessoires",
+    "description": "Een complete SUP-set die perfect is voor beginners die direct het water op willen. Het extra brede ontwerp (76 cm) biedt superieure stabiliteit, ideaal voor wie de SUP-sport wil leren. De premium PVC-constructie staat garant voor jarenlang plezier, terwijl alle benodigde accessoires ervoor zorgen dat je direct kunt starten.",
     "categorySlug": "sup-boards",
     "priceEUR": 189,
     "rating": 4.1,
@@ -137,6 +142,7 @@
   {
     "slug": "ultralichte-sup-board-10-voet",
     "title": "Ultralichte Opblaasbare SUP Board 10' x 30\"",
+    "description": "Het ultralichte ontwerp maakt dit SUP-board de perfecte keuze voor iedereen die mobiliteit en gemak waardeert. Met slechts 7,2 kg is het eenvoudig te dragen, terwijl de 18 cm dikte zorgt voor uitstekende stabiliteit op het water. Het waterdichte telefoonhoesje houdt je apparaten veilig tijdens je avonturen.",
     "categorySlug": "sup-boards",
     "priceEUR": 169,
     "rating": 4.4,
@@ -164,6 +170,7 @@
   {
     "slug": "artsport-opblaasbare-rubberboot-38m",
     "title": "ArtSport Opblaasbare Rubberboot 3.8m voor 6 Personen",
+    "description": "Deze imposante rubberboot biedt ruimte voor het hele gezin of een groep vrienden voor onvergetelijke dagen op het water. De aluminium bodem zorgt voor extra stevigheid en stabiliteit, terwijl de robuuste constructie bestand is tegen intensief gebruik. Met zijn motorgeschiktheid opent deze boot de deur naar eindeloze watermogelijkheden.",
     "categorySlug": "vissersboten",
     "priceEUR": 399,
     "rating": 4.2,
@@ -191,6 +198,7 @@
   {
     "slug": "bark-bt-motorboot-4-personen",
     "title": "BARK BT-330 Opblaasbare Motorboot 4 Personen", 
+    "description": "Ontworpen voor de serieuze watersporter die kwaliteit en prestatie waardeert. Deze professionele motorboot beschikt over een verstevigde transom die geschikt is voor buitenboordmotoren, waardoor je sneller en verder kunt varen. De zelfzelfvullende vloer en compacte ontwerp maken dit de ideale keuze voor avontuurlijke vissers.",
     "categorySlug": "vissersboten",
     "priceEUR": 589,
     "rating": 4.5,
@@ -218,6 +226,7 @@
   {
     "slug": "opblaasbare-vissersboot-4-personen",
     "title": "Opblaasbare Vissersboot voor 4 Personen - Draagbaar",
+    "description": "Perfect voor de recreatieve visser die comfort en functionaliteit zoekt in één pakket. De comfortabele opblaasbare vloer en kussens zorgen voor uren van ontspannen vissensessies, terwijl het hoogwaardige PVC-materiaal bestand is tegen de uitdagingen van het buitenleven. Verschillende zitopties maken deze boot veelzijdig inzetbaar.",
     "categorySlug": "vissersboten",
     "priceEUR": 329,
     "rating": 3.9,
@@ -245,6 +254,7 @@
   {
     "slug": "kinderboot-unicorn-veilig",
     "title": "Opblaasbare Kinderboot Unicorn met Veiligheidshandvat",
+    "description": "Laat je kleine avonturier dromen van magische reizen met deze prachtige unicorn-boot. Het zachte vinyl-materiaal is speciaal ontworpen voor kinderhuidjes, terwijl de stevige veiligheidshandvatten ouders geruststellen. Een populaire keuze die fantasie en veiligheid perfect combineert voor uren zwemplezier.",
     "categorySlug": "kinderboten",
     "priceEUR": 24,
     "rating": 4.7,
@@ -272,6 +282,7 @@
   {
     "slug": "kinderboot-race-car-splash-proof",
     "title": "Kinderboot Race Car - Splash Proof Design",
+    "description": "Voor de kleine speedliefhebber die van actie houdt! Deze stoere raceauto-boot beschikt over splash-proof constructie en dubbele luchtkamers voor maximale veiligheid. Het opvallende ontwerp zorgt ervoor dat je kleine coureur de ster van het zwembad is, terwijl de duurzame constructie zorgt voor langdurig plezier.",
     "categorySlug": "kinderboten", 
     "priceEUR": 19,
     "rating": 4.5,
@@ -299,6 +310,7 @@
   {
     "slug": "kinderboot-piraat-avontuur",
     "title": "Opblaasbare Piratenboot voor Kinderen - Avontuur Design",
+    "description": "Ahoy daar! Deze spectaculaire piratenboot brengt de magische wereld van avontuur en verbeelding tot leven in je eigen tuin. Met zijn extra grote afmetingen en bijgeleverde waterpistool zijn uren van creatief spel gegarandeerd. De stevige handgrepen zorgen ervoor dat kleine piraten veilig aan boord blijven tijdens hun avonturen.",
     "categorySlug": "kinderboten",
     "priceEUR": 34,
     "rating": 4.6,
@@ -326,6 +338,7 @@
   {
     "slug": "family-zwembad-305cm-easy-set",
     "title": "Family Zwembad 305cm Easy Set - Snelle Opbouw",
+    "description": "Transformeer je tuin in slechts 15 minuten tot een waterparadijs voor het hele gezin. Dit gebruiksvriendelijke zwembad van 305cm diameter biedt ruimte voor 6-8 personen en wordt compleet geleverd met filterpomp voor kristalhelder water. De duurzame TriTech-constructie staat garant voor seizoenen vol zwemplezier.",
     "categorySlug": "zwembaden",
     "priceEUR": 89,
     "rating": 4.3,
@@ -353,6 +366,7 @@
   {
     "slug": "kids-splash-zwembad-120cm",
     "title": "Kids Splash Zwembad 120cm - Voor Peuters",
+    "description": "Speciaal ontworpen voor de allerkleinsten biedt dit peuterzwembad een veilige en vrolijke introductie tot waterplezier. De zachte rand zorgt voor optimaal comfort, terwijl de veilige waterdiepte ouders geruststelt. Met zijn vrolijke kleuren en snelle opzet is het de perfecte keuze voor dagelijkse verkoeling in de tuin.",
     "categorySlug": "zwembaden",
     "priceEUR": 24,
     "rating": 4.4,
@@ -380,6 +394,7 @@
   {
     "slug": "opblaasbaar-zwembad-rechthoekig-260cm",
     "title": "Opblaasbaar Rechthoekig Zwembad 260 x 175cm",
+    "description": "De rechthoekige vorm maakt dit zwembad ideaal voor echte zwemmers die baantjes willen trekken in hun eigen tuin. Met zijn royale afmetingen en 3-laags PVC-constructie biedt het de perfecte combinatie van ruimte en duurzaamheid. De drain plug zorgt voor eenvoudige onderhoud, terwijl de inclusieve reparatieset jarenlang zorgeloos zwemmen garandeert.",
     "categorySlug": "zwembaden",
     "priceEUR": 159,
     "rating": 4.1,
@@ -408,6 +423,7 @@
   {
     "slug": "elektrische-pomp-12v-auto",
     "title": "Elektrische Pomp 12V Auto Aansluiting - Hoge Druk",
+    "description": "Maak oppompen tot een kwestie van minuten in plaats van uren met deze krachtige elektrische pomp. De 12V auto-aansluiting betekent dat je overal kunt oppompen waar je auto staat, terwijl het LCD-display met drukmeter zorgt voor perfecte druk elke keer. De automatische uitschakeling voorkomt dat je per ongeluk te ver oppompt.",
     "categorySlug": "accessoires",
     "priceEUR": 44,
     "rating": 4.2,
@@ -435,6 +451,7 @@
   {
     "slug": "reparatieset-pro-pvc-patches",
     "title": "Reparatieset Pro - PVC Patches & Sterke Lijm",
+    "description": "Een kleine investering die je kostbare opblaasbare uitrusting voor jaren kan redden. Deze professionele reparatieset bevat alles wat je nodig hebt voor waterdichte reparaties die de test des tijds doorstaan. Van kleine prikjes tot grotere scheuren, met 10 patches in verschillende maten ben je voorbereid op elke noodsituatie.",
     "categorySlug": "accessoires",
     "priceEUR": 16,
     "rating": 4.6,
@@ -462,6 +479,7 @@
   {
     "slug": "opblaasbare-peddel-aluminium",
     "title": "Opblaasbare Peddel Aluminium - Verstelbaar & Lichtgewicht",
+    "description": "Deze veelzijdige peddel past zich aan jouw behoeften aan, of je nu SUPt of kajakt. De verstelbare lengte (160-215 cm) maakt het geschikt voor verschillende lichaamslengtes en boottypen, terwijl het lichtgewicht aluminium zorgt voor uren comfortabel paddelen zonder vermoeidheid. De inclusieve draagtas maakt transport een fluitje van een cent.",
     "categorySlug": "accessoires",
     "priceEUR": 34,
     "rating": 4.3,
@@ -489,6 +507,7 @@
   {
     "slug": "waterdichte-telefoonhoes-universeel",
     "title": "Waterdichte Telefoonhoes Universeel - IPX8 Certificering",
+    "description": "Blijf verbonden, zelfs onder water! Deze universele waterdichte hoes beschermt smartphones tot 6,9 inch tegen alle water-gerelateerde ongelukken. Het drijvende ontwerp betekent dat je telefoon bovendrijft als hij valt, terwijl de IPX8-certificering totale onderdompeling tot 30 meter mogelijk maakt. Perfect voor elke watersporter.",
     "categorySlug": "accessoires",
     "priceEUR": 12,
     "rating": 4.4,
@@ -516,6 +535,7 @@
   {
     "slug": "drybag-waterdicht-20-liter",
     "title": "Drybag Waterdichte Tas 20 Liter - Roll Top Sluiting",
+    "description": "Houd je kostbare spullen 100% droog tijdens elke wateractiviteit met deze betrouwbare drybag. De roll-top sluiting zorgt voor een hermetische afdichting, terwijl het 20-liter volume genoeg ruimte biedt voor kleding, handdoeken en andere essentials. De verstevigde constructie en verstelbare schouderband maken het een duurzame metgezel voor jaren.",
     "categorySlug": "accessoires",
     "priceEUR": 22,
     "rating": 4.5,
@@ -543,6 +563,7 @@
   {
     "slug": "kajak-zitje-comfort-pro",
     "title": "Kajak Zitje Comfort Pro - Verstelbare Rugleuning",
+    "description": "Transformeer lange kajaktochten van een uitdaging naar een plezierige ervaring met dit ergonomische comfort-zitje. De verstelbare rugleuning (6 standen) zorgt voor perfecte ondersteuning van je onderrug, terwijl het ademende mesh-materiaal oververhitting voorkomt. De universele clips maken installatie op elke kajak eenvoudig en veilig.",
     "categorySlug": "accessoires",
     "priceEUR": 39,
     "rating": 4.7,
