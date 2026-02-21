@@ -18,5 +18,5 @@ export function getProduct(slug: string): Product | undefined {
 }
 
 export function amazonAffiliateUrl(asin: string) {
-  return `https://www.amazon.nl/dp/${asin}?tag=hazier-21`;
+  return `https://www.amazon.nl/dp/${asin}?tag=bootjes-21`;
 }
