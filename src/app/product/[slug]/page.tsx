@@ -96,7 +96,7 @@ export default function ProductPage({ params }: { params: Params }) {
             </div>
 
             <p className="mt-4 text-xs text-zinc-400">
-              Affiliate placeholder: tag=hazier-21. Dit is dummy data.
+              Als Amazon Partner verdien ik aan in aanmerking komende aankopen.
             </p>
           </div>
         </div>
